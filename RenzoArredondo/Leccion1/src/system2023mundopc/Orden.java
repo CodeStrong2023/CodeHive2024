@@ -21,5 +21,20 @@ public class Orden {
 		if(this.contadorComputadora<Orden.MAX_COMPUTADORAS) {
 			this.computadora[this.contadorComputadora++]=computadora;
 		}
+		else{
+			System.out.println("Has superado el limite "+Orden.MAX_COMPUTADORAS);
+		}
+	}
+	
+	//Mostrar orden
+	
+	public void mostrarOrden() {
+		System.out.println("Orden #: "+this.IdOrden);
+		System.out.println("Computadora de la orden #: "+this.IdOrden);
+		for(int i=0;i<this.contadorComputadora;i++) {
+			
+			System.out.println(this.computadora[i]);
+		}
+		
 	}
 }

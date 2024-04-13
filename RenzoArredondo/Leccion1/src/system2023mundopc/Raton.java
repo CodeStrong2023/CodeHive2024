@@ -8,7 +8,7 @@ public class Raton extends DispositivoEntrada {
 	public Raton(String tipoEntrada,String marca) {
 		
 		super(tipoEntrada,marca);
-		this.IdRaton=Raton.contadorRatones;
+		this.IdRaton=++Raton.contadorRatones;
 	}
 
 	@Override

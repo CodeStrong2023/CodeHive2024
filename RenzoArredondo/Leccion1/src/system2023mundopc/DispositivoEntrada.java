@@ -10,6 +10,7 @@ public class DispositivoEntrada {
 		this.marca=marca;
 	}
 
+	
 	public String getTipoEntrada() {
 		return this.tipoEntrada;
 	}
@@ -28,9 +29,7 @@ public class DispositivoEntrada {
 
 	@Override
 	public String toString() {
-		return "DispositivoEntrada [tipoEntrada=" + tipoEntrada + ", marca=" + marca + ", getTipoEntrada()="
-				+ getTipoEntrada() + ", getMarca()=" + getMarca() + ", getClass()=" + getClass() + ", hashCode()="
-				+ hashCode() + ", toString()=" + super.toString() + "]";
+		return "DispositivoEntrada [tipoEntrada=" + tipoEntrada + ", marca=" + marca  + "]";
 	}
 
 	

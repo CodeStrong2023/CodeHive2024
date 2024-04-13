@@ -8,11 +8,11 @@ public class Teclado extends DispositivoEntrada {
 	public Teclado(String tipoEntrada,String marca) {
 		
 		super(tipoEntrada,marca);
-		this.IdTeclado=Teclado.contadorTeclados;
+		this.IdTeclado=++Teclado.contadorTeclados;
 	}
 
 	@Override
 	public String toString() {
-		return "Raton [IdRaton=" + IdTeclado +", "+super.toString()+ "]";
+		return "Raton [Teclado=" + IdTeclado +", "+super.toString()+ "]";
 	}
 }
