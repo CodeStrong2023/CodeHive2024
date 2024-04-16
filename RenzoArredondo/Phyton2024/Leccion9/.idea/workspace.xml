@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad6f49e5-7694-4217-b0fb-3dec2aafd8ba" name="Changes" comment="" />
+    <list default="true" id="ad6f49e5-7694-4217-b0fb-3dec2aafd8ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/Cuadrado.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/Cuadrado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/FiguraGeometrica.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/FiguraGeometrica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/Rectangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/Rectangulo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/test_figura_geometrica.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/test_figura_geometrica.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,8 +28,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Dev",
-    "last_opened_file_path": "C:/Users/renzo/OneDrive/Escritorio/Codehive - TUP2023/CodeHive2024/RenzoArredondo/Phyton2024/Leccion9"
+    "last_opened_file_path": "C:/Users/renzo/OneDrive/Escritorio/Codehive - TUP2023/CodeHive2024/RenzoArredondo/Phyton2024/Leccion10"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,5 +43,16 @@
       <updated>1713223579786</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
