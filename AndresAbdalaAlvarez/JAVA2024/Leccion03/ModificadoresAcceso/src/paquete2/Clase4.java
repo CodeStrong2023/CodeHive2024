@@ -16,7 +16,7 @@ public class Clase4 {
     }
     
     
-    //Metodo private
+    //Metodo privado
     private void metodoPrivado(){
         System.out.println("Metodo privado");
     }
