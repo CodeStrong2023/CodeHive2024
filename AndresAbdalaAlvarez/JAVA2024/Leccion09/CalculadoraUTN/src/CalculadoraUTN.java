@@ -47,19 +47,19 @@ public class CalculadoraUTN {
         switch (operacion) {
             case 1 -> {
                 resultado = operando1 + operando2;
-                System.out.println("Resultado de la suma: " + resultado);
+                System.out.println("Resultado de la suma: "+operando1 +" + "+operando2 + " = "+ resultado);
             }
             case 2 -> {
                 resultado = operando1 - operando2;
-                System.out.println("Resultado de la Resta: " + resultado);
+                System.out.println("Resultado de la Resta: "+operando1 +" - "+operando2 + " = "+ resultado);
             }
             case 3 -> {
                 resultado = operando1 * operando2;
-                System.out.println("Resultado de la Multiplicacion: " + resultado);
+                System.out.println("Resultado de la Multiplicacion: "+operando1 +" X "+operando2 + " = "+ resultado);
             }
             case 4 -> {
                 resultado = operando1 / operando2;
-                System.out.println("Resultado de la Division: " + resultado);
+                System.out.println("Resultado de la Division: " +operando1 +" / "+operando2 + " = "+ resultado);
             }
             default -> System.out.println("Opcion erronea! -> "+operacion);
         }//Fin Switch

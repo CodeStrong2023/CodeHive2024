@@ -1,0 +1,100 @@
+09:49:26 PM: DEBUG [logger_base.py: 17] Mensaje a nivel debug
+09:49:26 PM: INFO [logger_base.py: 18] Mensaje a nivel info
+09:49:26 PM: WARNING [logger_base.py: 19] Mensaje a nivel Warning
+09:49:26 PM: ERROR [logger_base.py: 20] Mensaje a nivel error
+09:49:26 PM: CRITICAL [logger_base.py: 21] Mensaje a nivel critical
+10:09:46 PM: DEBUG [Persona.py: 53] 
+        Id Persona: 1,
+        Nombre: Juan,
+        Apellido: Perez,
+        Email: jperez@mail.com
+    
+10:17:39 PM: DEBUG [Persona.py: 53] 
+        Id Persona: 1,
+        Nombre: Juan,
+        Apellido: Perez,
+        Email: jperez@mail.com
+    
+10:19:29 PM: DEBUG [Persona.py: 53] 
+        Id Persona: 1,
+        Nombre: Juan,
+        Apellido: Perez,
+        Email: jperez@mail.com
+    
+10:19:29 PM: DEBUG [Persona.py: 55] 
+        Id Persona: Jose,
+        Nombre: Lepez,
+        Apellido: jlepez@mail.com,
+        Email: None
+    
+10:20:06 PM: DEBUG [Persona.py: 53] 
+        Id Persona: 1,
+        Nombre: Juan,
+        Apellido: Perez,
+        Email: jperez@mail.com
+    
+10:20:06 PM: DEBUG [Persona.py: 55] 
+        Id Persona: None,
+        Nombre: Jose,
+        Apellido: Lepez,
+        Email: jlepez@mail.com
+    
+10:21:24 PM: DEBUG [Persona.py: 53] 
+        Id Persona: 1,
+        Nombre: Juan,
+        Apellido: Perez,
+        Email: jperez@mail.com
+    
+10:21:24 PM: DEBUG [Persona.py: 55] 
+        Id Persona: None,
+        Nombre: Jose,
+        Apellido: Lepez,
+        Email: jlepez@mail.com
+    
+10:21:38 PM: DEBUG [Persona.py: 53] 
+        Id Persona: 1,
+        Nombre: Juan,
+        Apellido: Perez,
+        Email: jperez@mail.com
+    
+10:21:38 PM: DEBUG [Persona.py: 55] 
+        Id Persona: None,
+        Nombre: Jose,
+        Apellido: Lepez,
+        Email: jlepez@mail.com
+    
+10:21:59 PM: DEBUG [Persona.py: 53] 
+        Id Persona: 1,
+        Nombre: Juan,
+        Apellido: Perez,
+        Email: jperez@mail.com
+    
+10:21:59 PM: DEBUG [Persona.py: 55] 
+        Id Persona: None,
+        Nombre: Jose,
+        Apellido: Lepez,
+        Email: jlepez@mail.com
+    
+10:22:11 PM: DEBUG [Persona.py: 53] 
+        Id Persona: 1,
+        Nombre: Juan,
+        Apellido: Perez,
+        Email: jperez@mail.com
+    
+10:22:11 PM: DEBUG [Persona.py: 55] 
+        Id Persona: None,
+        Nombre: Jose,
+        Apellido: Lepez,
+        Email: jlepez@mail.com
+    
+10:22:11 PM: DEBUG [Persona.py: 57] 
+        Id Persona: 1,
+        Nombre: None,
+        Apellido: None,
+        Email: None
+    
+10:44:54 PM: DEBUG [conexion.py: 24] Conexion Exitosa <connection object at 0x0000020FAE6829B0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+10:46:55 PM: ERROR [conexion.py: 27] Ocurrio un Error: 
+10:47:28 PM: ERROR [conexion.py: 27] Ocurrio un Error: 
+10:47:48 PM: DEBUG [conexion.py: 24] Conexion Exitosa <connection object at 0x0000021B132429B0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+10:47:48 PM: ERROR [conexion.py: 40] Ocurrio un error: 'NoneType' object has no attribute 'cursor'
