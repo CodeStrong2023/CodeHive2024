@@ -61,6 +61,7 @@ class PersonaDAO:
 
 
 if __name__ == '__main__':
+
     ## Eliminar un registro
     # persona1 = Persona(id_persona=8)
     # personas_eliminadas = PersonaDAO.eliminar(persona1)
